@@ -1,0 +1,37 @@
+1. Write a C++ program to swap two numbers without using third variable
+
+2. Write a C++ program to print Fibonacci series (0, 1, 1, 2, 3, 5….)
+
+3. Write a program to check whether a given number is Armstrong number.
+
+4. Write a program to sort an array using selection sort.
+
+5. Write a program for quick sort.
+
+6. Write a program to print sum of diagonal values of a square Matrix.
+
+7. Write a C++ Program to display Names, Roll No., and grades of 3 students who have appeared in the examination. Declare the class of name, Roll No. and grade. Create an array of class objects. Read and display the contents of the array.
+
+8. Write a C++ program to declare a class. Declare pointer to class. Initialize and display the
+contents of the class member.
+
+9. Write a C++ program to read the data of N employee and compute Net salary of each
+employee (DA=52% of Basic and Income Tax (IT) =30% of the gross salary).
+
+10. Write a C++ program to use scope resolution operator. Display the various values of the
+same variables declared at different scope levels.
+
+11. Write a C++ program using constructor in a class.
+
+12. Write a C++ program to allocate memory using new operator.
+
+13. Write a C++ program to create multilevel inheritance. (Hint: Classes A1, A2, A3)
+
+14. Write a C++ program to create an array of pointers. Invoke functions using array objects.
+
+15. Write a C++ program to use pointer for both base and derived classes and call the member function. Use Virtual keyword.
+
+16. Create your profile page i.e. educational details, Hobbies, Achievement, My Ideals etc. using
+html tags.
+
+17. Design following registration form.
